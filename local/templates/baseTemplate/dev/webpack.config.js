@@ -10,7 +10,7 @@ module.exports = {
     },
     output: {
         path: path.resolve(__dirname, "..", "dist"),
-        filename: "project_name.[name].js",
+        filename: "baseTemplate.[name].js",
         clean: true,
     },
     module: {
@@ -35,7 +35,7 @@ module.exports = {
     },
     plugins: [
         new MiniCssExtractPlugin({
-            filename: 'project_name.[name].css'
+            filename: 'baseTemplate.[name].css'
         }),
         new CleanWebpackPlugin()
     ]

@@ -14,8 +14,8 @@ use \Bitrix\Main\Page\Asset as Asset;
 
 		<!-- WebPack Libraries and Teplate JS -->
 		<?php
-			Asset::getInstance()->addJs( SITE_TEMPLATE_PATH . '/dist/project_name.libs.js');
-			Asset::getInstance()->addJs( SITE_TEMPLATE_PATH . '/dist/project_name.template.js');
+			Asset::getInstance()->addJs( SITE_TEMPLATE_PATH . '/dist/baseTemplate.libs.js');
+			Asset::getInstance()->addJs( SITE_TEMPLATE_PATH . '/dist/baseTemplate.template.js');
 		?>
 
 		<!-- Custom JS -->

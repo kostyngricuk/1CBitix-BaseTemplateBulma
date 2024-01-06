@@ -16,7 +16,7 @@
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n\n//# sourceURL=webpack://project_name/./src/scss/template.scss?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n\n//# sourceURL=webpack://baseTemplate/./src/scss/template.scss?");
 
 /***/ }),
 
@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
   \****************************/
 /***/ (() => {
 
-eval("console.log('Template JS loaded');\n\n//# sourceURL=webpack://project_name/./src/js/template.js?");
+eval("console.log('Template JS loaded');\n\n//# sourceURL=webpack://baseTemplate/./src/js/template.js?");
 
 /***/ }),
 
@@ -37,7 +37,7 @@ eval("console.log('Template JS loaded');\n\n//# sourceURL=webpack://project_name
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _src_scss_template_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./src/scss/template.scss */ \"./src/scss/template.scss\");\n/* harmony import */ var _src_js_template_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./src/js/template.js */ \"./src/js/template.js\");\n/* harmony import */ var _src_js_template_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_src_js_template_js__WEBPACK_IMPORTED_MODULE_1__);\n\r\n\n\n//# sourceURL=webpack://project_name/./template.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _src_scss_template_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./src/scss/template.scss */ \"./src/scss/template.scss\");\n/* harmony import */ var _src_js_template_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./src/js/template.js */ \"./src/js/template.js\");\n/* harmony import */ var _src_js_template_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_src_js_template_js__WEBPACK_IMPORTED_MODULE_1__);\n\r\n\n\n//# sourceURL=webpack://baseTemplate/./template.js?");
 
 /***/ })
 

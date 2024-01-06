@@ -17,8 +17,8 @@ include $_SERVER["DOCUMENT_ROOT"] . SITE_TEMPLATE_PATH . "/.settings.php";
 	<head>
         <!-- WebPack Libraries and Template CSS -->
 		<?php
-			Asset::getInstance()->addCss( SITE_TEMPLATE_PATH . '/dist/project_name.libs.css' );
-			Asset::getInstance()->addCss( SITE_TEMPLATE_PATH . '/dist/project_name.template.css' );
+			Asset::getInstance()->addCss( SITE_TEMPLATE_PATH . '/dist/baseTemplate.libs.css' );
+			Asset::getInstance()->addCss( SITE_TEMPLATE_PATH . '/dist/baseTemplate.template.css' );
 		?>
 
         <!-- Custom CSS -->
