@@ -1,0 +1,13 @@
+@import './common/variables';
+@import './common/mixins';
+@import './common/fonts';
+@import './common/base';
+
+.section {
+    &__header {
+        margin: 0 auto;
+        &_medium {
+            max-width: 575px;
+        }
+    }
+}

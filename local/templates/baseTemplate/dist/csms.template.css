@@ -1,0 +1,16 @@
+/*!***********************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/template.scss ***!
+  \***********************************************************************************************************************************************************/
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;1,400;1,600&display=swap);
+/*!***************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/template.scss (1) ***!
+  \***************************************************************************************************************************************************************/
+@import url(https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;1,300&display=swap);
+/*!***************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/template.scss (2) ***!
+  \***************************************************************************************************************************************************************/
+.section__header {
+  margin: 0 auto; }
+  .section__header_medium {
+    max-width: 575px; }
+

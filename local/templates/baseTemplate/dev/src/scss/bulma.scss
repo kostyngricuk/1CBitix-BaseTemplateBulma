@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+@import './common/variables';
+@import './common/fonts';
+
+// Colors
+$primary: $colorPrimary;
+$primary-light: $colorPrimaryLight;
+$success: $colorSecondary;
+
+$text: $colorText;
+$text-light: $colorTextLight;
+
+$link: $colorPrimary;
+$link-light: $colorPrimaryLight;
+$link-hover: $colorSecondary;
+$link-focus: $colorSecondary;
+$link-focus-border: transparent;
+$link-active: $colorSecondary;
+$link-active-border: transparent;
+
+// Fonts
+$family-primary: 'Raleway', 'Arial', sans-serif;
+$family-secondary: 'Open Sans', 'Arial', sans-serif;
+
+$body-line-height: 1.45em;
+
+$body-weight: 300;
+$strong-weight: 600;
+
+$size-1: 4.125rem;
+$size-2: 3.5rem;
+$size-3: 2.95rem;
+$size-4: 2rem;
+$size-5: 1.25rem;
+$size-6: 1rem;
+$size-7: 0.875rem;
+
+
+@import "~bulma/sass/utilities/_all.sass";
+@import "~bulma/sass/base/_all.sass";
+@import "~bulma/sass/helpers/_all.sass";
+@import "~bulma/sass/grid/columns.sass";
+@import "~bulma/sass/elements/button.sass";
+@import "~bulma/sass/elements/container.sass";
+@import "~bulma/sass/elements/title.sass";
+@import "~bulma/sass/layout/section.sass";
