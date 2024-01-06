@@ -4,7 +4,7 @@
 - Webpack
 - Bulma
 - Scss
-- Normolize.css
+- Normalize.css
 
 ## Run development
 1. Put all files from the repo to your root folder in bitrix project
